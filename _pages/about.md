@@ -2,14 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: University of Antwerp, Belgium | Applied Data Mining Research Group
+subtitle: PhD Student in Machine Learning · <a href="https://www.uantwerpen.be">University of Antwerp</a>, Belgium · Advisor&#58; <a href="https://scholar.google.com/citations?user=qt4VQREAAAAJ">Prof. Dr. David Martens</a>
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>mateusz.cedro(at)uantwerpen.be</p>
+    <p>mateusz.cedro@uantwerpen.be</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -25,4 +25,4 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a 1st year PhD student in Explainable AI, supervised by Prof. David Martens.
+I am a second-year PhD student in Machine Learning, in particular **machine learning interpretability** and **explainable AI**. My current research focuses on **AI Safety and Alignment** of Large Language Models and semantic concepts in neural networks. My previous research concerned explanations of various ML models: LLMs, Graph Neural Networks, Computer Vision, and AI models in medicine. I aim to increase understanding and alignment of AI.

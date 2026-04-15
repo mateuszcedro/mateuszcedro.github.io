@@ -2,11 +2,17 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: Courses taught at the University of Antwerp.
 nav: true
-nav_order: 6
+nav_order: 7
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+## University of Antwerp
 
-Organize your courses by years, topics, or universities, however you like!
+**Data Engineering** (master course)
+Lab sessions & project supervision, 50 students/year
+*2026*
+
+**Python for Machine Learning** (master course)
+Lab sessions & project supervision, 140 students/year
+*2024, 2025*
