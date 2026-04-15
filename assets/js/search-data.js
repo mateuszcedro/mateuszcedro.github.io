@@ -425,7 +425,7 @@ ninja.data = [{
           section: "News",},{id: "news-a-simple-inline-announcement-2",
           title: 'A simple inline announcement 2.',
           description: "",
-          section: "News",},{id: "news-the-graphxain-narratives-to-explain-graph-neural-networks-is-accepted-to-the-3rd-world-conference-on-explainable-artificial-intelligence-conference-link",
+          section: "News",},{id: "news-the-graphxain-narratives-to-explain-graph-neural-networks-is-accepted-to-the-3rd-world-conference-on-explainable-artificial-intelligence-conference",
           title: 'The GraphXAIN: Narratives to Explain Graph Neural Networks, is accepted to The 3rd...',
           description: "",
           section: "News",},{id: "projects-project-1",
