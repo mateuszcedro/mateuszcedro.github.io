@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-cv",
           title: "cv",
-          description: "PhD student in Machine Learning at the University of Antwerp.",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
