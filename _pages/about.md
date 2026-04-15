@@ -1,8 +1,8 @@
 ---
 layout: about
-title: about
+title: bio
 permalink: /
-subtitle: PhD Student in Machine Learning · <a href="https://www.uantwerpen.be">University of Antwerp</a>, Belgium. Advisor&#58; <a href="https://scholar.google.com/citations?user=qt4VQREAAAAJ">Prof. Dr. David Martens</a>
+subtitle: PhD Student in Machine Learning | University of Antwerp, Belgium | <a href="https://admantwerp.github.io/">Applied Data Mining Research Group</a>
 
 profile:
   align: right
@@ -25,4 +25,4 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a second-year PhD student in Machine Learning, in particular **machine learning interpretability** and **explainable AI**. My current research focuses on **AI Safety and Alignment** of Large Language Models and semantic concepts in neural networks. My previous research concerned explanations of various ML models: LLMs, Graph Neural Networks, Computer Vision, and AI models in medicine. I aim to increase understanding and alignment of AI.
+I am a second-year PhD student in Machine Learning at the University of Antwerp, advised by <a href="https://scholar.google.com/citations?hl=en&user=gbce1doAAAAJ&view_op=list_works&sortby=pubdate">Prof. Dr. David Martens</a>. My current research focuses on **AI Safety and Alignment** of Large Language Models and semantic concepts in neural networks. My previous research concerned explanations of various ML models: LLMs, Graph Neural Networks, Computer Vision, and AI models in medicine. I aim to increase understanding and alignment of AI.
