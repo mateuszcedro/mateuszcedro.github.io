@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-The \underline{GraphXAIN: Narratives to Explain Graph Neural Networks}, is accepted to \underline{The 3rd World Conference on eXplainable Artificial Intelligence} conference
+The <u>GraphXAIN: Narratives to Explain Graph Neural Networks</u>, is accepted to *The 3rd World Conference on eXplainable Artificial Intelligence* conference. [Link](https://link.springer.com/chapter/10.1007/978-3-032-08327-2_5)
