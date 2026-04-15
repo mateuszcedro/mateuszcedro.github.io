@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-The <u>GraphXAIN: Narratives to Explain Graph Neural Networks</u>, is accepted to *The 3rd World Conference on eXplainable Artificial Intelligence* conference. <a href="https://link.springer.com/chapter/10.1007/978-3-032-08327-2_5" target="_blank"><i class="fa-solid fa-arrow-up-right-from-square"></i></a>
+The <u>GraphXAIN: Narratives to Explain Graph Neural Networks</u> article is accepted at *The 3rd World Conference on eXplainable Artificial Intelligence* conference. <a href="https://link.springer.com/chapter/10.1007/978-3-032-08327-2_5" target="_blank"><i class="fa-solid fa-arrow-up-right-from-square"></i></a>
