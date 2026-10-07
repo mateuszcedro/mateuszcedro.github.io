@@ -95,7 +95,7 @@ ninja.data = [{
           section: "News",},{id: "news-i-attended-the-machine-learning-summer-school-on-reliability-amp-amp-safety-focused-on-ai-safety-understanding-and-alignment-of-ml-models-lectures-were-conducted-by-prof-wojciech-samek-tu-berlin-hhi-jan-betley-truthful-ai-and-fazl-barez-oxford-among-others",
           title: 'I attended the Machine Learning Summer School on Reliability &amp;amp;amp; Safety focused on...',
           description: "",
-          section: "News",},{id: "news-the-article-cash-or-comfort-how-llms-value-your-inconvenience-is-published-and-featured-on-the-cover-of-the-september-issue-of-communications-of-the-acm",
+          section: "News",},{id: "news-the-article-cash-or-comfort-how-llms-value-your-inconvenience-is-published-and-featured-on-the-cover-of-the-september-issue-of-communications-of-the-acm-magazine",
           title: 'The article Cash or Comfort? How LLMs Value Your Inconvenience is published and...',
           description: "",
           section: "News",},{id: "projects-project-1",
