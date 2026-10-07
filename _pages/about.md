@@ -31,7 +31,7 @@ latest_posts:
 
 I am a third-year PhD student in Machine Learning at the University of Antwerp, advised by <a href="https://scholar.google.com/citations?hl=en&user=gbce1doAAAAJ&view_op=list_works&sortby=pubdate">Prof.&nbsp;Dr.&nbsp;David&nbsp;Martens</a>. Prior to my PhD, I conducted research under <a href="https://scholar.google.com/citations?user=Af0O75cAAAAJ">Prof.&nbsp;Dr.&nbsp;Przemyslaw&nbsp;Biecek</a> at Warsaw University of Technology.
 
-<p style="margin-bottom: 0;">My research focuses on <b>machine learning interpretability</b>:</p>
+<p style="margin-bottom: 0;">My research focuses on <strong>machine learning interpretability</strong>:</p>
 <ul>
   <li>Representation Learning of Transformers (current focus),</li>
   <li>Alignment of Large Language Models (<em><a href="https://doi.org/10.1145/3799434">CACM</a></em>),</li>

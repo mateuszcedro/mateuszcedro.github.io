@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I have completed the <a href="https://bluedot.org/courses/technical-ai-safety" target="_blank">Technical AI Safety</a> course organized by BlueDot Impact.
+I completed the <a href="https://bluedot.org/courses/technical-ai-safety" target="_blank">Technical AI Safety</a> training organized by BlueDot Impact.
