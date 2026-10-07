@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-publications",
           title: "publications",
-          description: "For the most up-to-date list, see my Google Scholar.",
+          description: "journal articles, papers published in conference proceedings, and preprints in review",
           section: "Navigation",
           handler: () => {
             window.location.href = "/publications/";
@@ -85,6 +85,9 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-i-have-completed-the-technical-ai-safety-course-organized-by-bluedot",
           title: 'I have completed the Technical AI Safety course organized by BlueDot.',
+          description: "",
+          section: "News",},{id: "news-the-article-cash-or-comfort-how-llms-value-your-inconvenience-is-featured-on-the-cover-of-the-september-issue-of-communications-of-the-acm",
+          title: 'The article Cash or Comfort? How LLMs Value Your Inconvenience is featured on...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
