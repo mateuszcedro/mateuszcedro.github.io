@@ -29,7 +29,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a third-year PhD student in Machine Learning at the University of Antwerp, advised by <a href="https://scholar.google.com/citations?hl=en&user=gbce1doAAAAJ&view_op=list_works&sortby=pubdate">Prof.&nbsp;Dr.&nbsp;David&nbsp;Martens</a> in the <a href="https://admantwerp.github.io/">Applied Data Mining Research Group</a>.
+I am a third-year PhD student in Machine Learning at the University of Antwerp, advised by <a href="https://scholar.google.com/citations?hl=en&user=gbce1doAAAAJ&view_op=list_works&sortby=pubdate">Prof.&nbsp;Dr.&nbsp;David&nbsp;Martens</a> in the <a href="https://admantwerp.github.io/">Applied Data Mining Research Group</a>. Prior to my PhD, I conducted research under <a href="https://scholar.google.com/citations?user=Af0O75cAAAAJ">Prof.&nbsp;Dr.&nbsp;Przemyslaw&nbsp;Biecek</a> at Warsaw University of Technology.
 
 <p style="margin-bottom: 0;">My research focuses on <b>machine learning interpretability</b>:</p>
 <ul>
