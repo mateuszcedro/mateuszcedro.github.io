@@ -37,5 +37,5 @@ I am a third-year PhD student in Machine Learning at the University of Antwerp, 
   <li>Alignment of Large Language Models (<em><a href="https://doi.org/10.1145/3799434">CACM</a></em>),</li>
   <li>Explanation quality in Computer Vision models (<em><a href="https://doi.org/10.1038/s41598-026-68191-5">Sci.&nbsp;Rep.</a></em>),</li>
   <li>Human-Centered Explanations (<em><a href="https://doi.org/10.1007/978-3-032-08327-2_5">XAI&nbsp;Conf.</a></em>),</li>
-  <li>Explaining multimodal ML models in medical applications (<em><a href="https://doi.org/10.1080/07853890.2025.2568119">Ann&nbsp;Med</a>, <a href="https://doi.org/10.1038/s41598-026-71391-8">Sci.&nbsp;Rep.</a></em>).</li>
+  <li>Explaining multimodal ML models in medical applications (<em><a href="https://doi.org/10.1080/07853890.2025.2568119">Ann.&nbsp;Med.</a>, <a href="https://doi.org/10.1038/s41598-026-71391-8">Sci.&nbsp;Rep.</a></em>).</li>
 </ul>
