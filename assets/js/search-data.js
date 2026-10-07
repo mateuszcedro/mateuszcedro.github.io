@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-publications",
           title: "publications",
-          description: "journal articles, papers published in conference proceedings, and preprints under",
+          description: "For the most up-to-date list, see my Google Scholar.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/publications/";
