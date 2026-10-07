@@ -4,7 +4,7 @@ title: software
 permalink: /software/
 description: Open-source software and research code.
 nav: true
-nav_order: 5
+nav_order: 6
 ---
 
 <div class="d-flex flex-wrap justify-content-between align-items-stretch">

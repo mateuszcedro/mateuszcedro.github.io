@@ -21,8 +21,8 @@ layout: default
             {% assign profile_image_class = 'img-fluid z-depth-1
       rounded' %}
           {% endif %}
-          {% capture sizes %}(min-width: {{ site.max_width }}) {{ site.max_width | minus: 30 | times: 0.25}}px, (min-width: 576px)
-      25vw, 45vw{% endcapture %}
+          {% capture sizes %}(min-width: {{ site.max_width }}) {{ site.max_width | minus: 30 | times: 0.3}}px, (min-width: 576px)
+      30vw, 45vw{% endcapture %}
           {%
             include figure.liquid loading="eager" path=profile_image_path class=profile_image_class sizes=sizes alt=page.profile.image
             cache_bust=true
@@ -41,8 +41,9 @@ layout: default
 
     <!-- News -->
     {% if page.announcements and page.announcements.enabled %}
-      <h2>
-        <a href="{{ '/news/' | relative_url }}" style="color: inherit">news</a>
+      <hr>
+      <h2 class="home-section">
+        <a href="{{ '/news/' | relative_url }}" style="color: inherit">recent news</a>
       </h2>
       {% include news.liquid limit=true %}
     {% endif %}
@@ -57,7 +58,8 @@ layout: default
 
     <!-- Selected papers -->
     {% if page.selected_papers %}
-      <h2>
+      <hr>
+      <h2 class="home-section">
         selected publications
         <span class="heading-link">[<a href="{{ '/publications/' | relative_url }}">full list</a>]</span>
       </h2>

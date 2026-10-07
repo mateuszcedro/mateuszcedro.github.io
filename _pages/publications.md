@@ -4,7 +4,7 @@ permalink: /publications/
 title: publications
 description: For the most up-to-date list, see my <a class="scholar-link" href="https://scholar.google.com/citations?user=srXiChUAAAAJ">Google Scholar</a>.
 nav: true
-nav_order: 4
+nav_order: 3
 ---
 
 <!-- _pages/publications.md -->
@@ -13,6 +13,6 @@ nav_order: 4
 
 <div class="publications">
 
-{% bibliography %}
+{% bibliography --group_by none %}
 
 </div>

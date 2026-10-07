@@ -2,15 +2,19 @@
 # the commented lines are the default social media links supported by the template
 # the socials will be displayed in the order they are defined here
 
+email: mateusz.cedro@uantwerpen.be # your email address
+scholar_userid: srXiChUAAAAJ # your Google Scholar ID
+github_username: mateuszcedro # your GitHub user name
+linkedin_username: mateusz-cedro # your LinkedIn user name
+x_username: mateusz__cedro # your X handle
+
 # acm_id: # your dl.acm.org/profile/id
 # blogger_url: # your blogger URL
 # bluesky_url: # your bluesky URL
 # dblp_url: # your DBLP profile url
 # discord_id: # your discord id (18-digit unique numerical identifier)
-email: mateusz.cedro@uantwerpen.be # your email address
 # facebook_id: # your facebook id
 # flickr_id: # your flickr id
-github_username: mateuszcedro # your GitHub user name
 # gitlab_username: # your GitLab user name
 # ieee_id: # your ieeexplore.ieee.org/author/id
 # inspirehep_id: # Inspire HEP author ID
@@ -20,7 +24,6 @@ github_username: mateuszcedro # your GitHub user name
 # lastfm_id: # your lastfm id
 # lattes_id: # your ID on Lattes (Brazilian Lattes CV)
 # leetcode_id: # your LeetCode id
-linkedin_username: mateusz-cedro # your LinkedIn user name
 # mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 # medium_username: # your Medium username
 # orcid_id: # your ORCID ID
@@ -30,7 +33,6 @@ linkedin_username: mateusz-cedro # your LinkedIn user name
 # quora_username: # your Quora username
 # research_gate_profile: # your profile on ResearchGate
 # rss_icon: false # set to true to show the RSS icon
-scholar_userid: srXiChUAAAAJ # your Google Scholar ID
 # scopus_id: # your profile on Scopus
 # semanticscholar_id: # your Semantic Scholar ID
 # spotify_id: # your spotify id

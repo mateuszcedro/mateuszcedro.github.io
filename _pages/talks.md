@@ -4,7 +4,7 @@ permalink: /talks/
 title: talks
 description: Conference presentations and talks.
 nav: true
-nav_order: 6
+nav_order: 7
 ---
 
 ## 2026

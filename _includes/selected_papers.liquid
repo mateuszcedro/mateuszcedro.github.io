@@ -1,3 +1,10 @@
-<div class="publications">
-  {% bibliography --group_by none --query @*[selected=true]* %}
+<div class="publications selected-papers">
+  {% if page.selected_papers == true %}
+    {% bibliography --group_by none --query @*[selected=true]* %}
+  {% else %}
+    {% comment %} a list of bib keys: rendered one by one to keep the given order {% endcomment %}
+    {% for key in page.selected_papers %}
+      {% bibliography --group_by none --query @*[key={{ key }}]* %}
+    {% endfor %}
+  {% endif %}
 </div>

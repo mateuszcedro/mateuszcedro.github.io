@@ -2,8 +2,8 @@
 layout: default
 permalink: /blog/
 title: blog
-nav: false
-nav_order: 1
+nav: true
+nav_order: 5
 pagination:
   enabled: true
   collection: posts
@@ -23,10 +23,10 @@ pagination:
 
 {% if blog_name_size > 0 or blog_description_size > 0 %}
 
-  <div class="header-bar">
-    <h1>{{ site.blog_name }}</h1>
-    <h2>{{ site.blog_description }}</h2>
-  </div>
+  <header class="post-header">
+    <h1 class="post-title">{{ site.blog_name }}</h1>
+    {% if blog_description_size > 0 %}<p class="post-description">{{ site.blog_description }}</p>{% endif %}
+  </header>
   {% endif %}
 
 {% if site.display_tags and site.display_tags.size > 0 or site.display_categories and site.display_categories.size > 0 %}

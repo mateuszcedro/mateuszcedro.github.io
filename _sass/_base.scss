@@ -45,9 +45,41 @@ table {
   white-space: nowrap;
 }
 
+// line under a blog post's title (front matter `subtitle`)
+.post-subtitle {
+  font-size: 1.125rem;
+  margin-bottom: 0.25rem;
+}
+
+// front page: "recent news" and "selected publications"
+.home-section {
+  font-size: 1.75rem;
+}
+
 // "[full list]" link next to a section heading
 .heading-link {
   font-size: 1.375rem;
+}
+
+.clearfix ul {
+  padding-left: 1.5rem;
+}
+
+// front-page papers are rendered as one list per paper; keep the usual spacing
+.selected-papers ol.bibliography {
+  margin-bottom: 0;
+}
+
+// teaching page tables
+.teaching {
+  caption {
+    caption-side: top;
+    padding-top: 0.1rem;
+  }
+
+  table th {
+    font-weight: normal;
+  }
 }
 
 a,
@@ -234,7 +266,7 @@ ul.task-list input[type="checkbox"] {
 
 @media (min-width: 576px) {
   .profile {
-    width: 25%;
+    width: 30%;
 
     .address {
       p {
@@ -801,6 +833,7 @@ footer.sticky-bottom {
         > em {
           border-bottom: 1px solid;
           font-style: normal;
+          white-space: nowrap;
         }
 
         > span.more-authors {
