@@ -9,7 +9,7 @@ categories: research
 related_posts: false
 ---
 
-AI assistants are moving from answering our questions to making decisions on our behalf. Many everyday decisions pit money against comfort: would you wait an extra hour for a €10 refund, or walk 5 km to save €100? In our paper in the September 2026 issue of _Communications of the ACM_, we asked six state-of-the-art LLMs to make exactly these calls for a user.
+AI assistants are moving from answering our questions to making autonomous decisions on our behalf. Many everyday decisions trade money against comfort: would you wait an extra hour e.g., for an appointment with your GP for a €10 refund, or would you walk 5 km instead of taking a taxi to save €20? In our paper in the September 2026 issue of <a href="https://doi.org/10.1145/3799434">_Communications of the ACM_</a>, we asked six state-of-the-art LLMs to make exactly these calls for a user.
 
 ### The setup
 
