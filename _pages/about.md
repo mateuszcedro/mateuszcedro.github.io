@@ -2,22 +2,22 @@
 layout: about
 title: bio
 permalink: /
-subtitle: PhD Student in Machine Learning <b>|</b> University of Antwerp, Belgium <b>|</b> <a href="https://admantwerp.github.io/">Applied Data Mining Research Group</a>
+subtitle: PhD Student in Machine Learning <b>|</b> University of Antwerp, Belgium
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p style="white-space: nowrap;">mateusz.cedro (at) uantwerpen.be</p>
+    <p>mateusz.cedro (at) uantwerpen.be</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: false # includes social icons at the bottom of the page
+social: true # includes social icons at the bottom of the page
 
 announcements:
   enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  scrollable: false # adds a vertical scroll bar if there are more than 3 news items
+  limit: 4 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
   enabled: false
@@ -25,4 +25,4 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a second-year PhD student in Machine Learning at the University of Antwerp, advised by <a href="https://scholar.google.com/citations?hl=en&user=gbce1doAAAAJ&view_op=list_works&sortby=pubdate">Prof. Dr. David Martens</a>. My current research focuses on **AI Safety and Alignment** of Large Language Models and semantic concepts in neural networks. My previous research concerned explanations of various ML models: LLMs, Graph Neural Networks, Computer Vision, and AI models in medicine. I aim to increase understanding and alignment of AI models.
+I am a second-year PhD student in Machine Learning at the University of Antwerp, advised by <a href="https://scholar.google.com/citations?hl=en&user=gbce1doAAAAJ&view_op=list_works&sortby=pubdate">Prof. Dr. David Martens</a> in the <a href="https://admantwerp.github.io/">Applied Data Mining Research Group</a>. My current research focuses on **AI Safety and Alignment** of Large Language Models and semantic concepts in neural networks. My previous research concerned explanations of various ML models: LLMs, Graph Neural Networks, Computer Vision, and AI models in medicine. I aim to increase understanding and alignment of AI models.

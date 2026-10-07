@@ -4,6 +4,11 @@
 
 // Typography
 
+body {
+  // Faustina: a free, close match for Chaparral Pro
+  font-family: "Faustina", serif;
+}
+
 p,
 h1,
 h2,
@@ -33,6 +38,16 @@ table {
   th {
     font-weight: bold;
   }
+}
+
+.news table th {
+  font-weight: normal;
+  white-space: nowrap;
+}
+
+// "[full list]" link next to a section heading
+.heading-link {
+  font-size: 1.375rem;
 }
 
 a,
@@ -193,12 +208,14 @@ ul.task-list input[type="checkbox"] {
 // Profile
 
 .profile {
-  width: 100%;
+  width: 45%;
 
   .more-info {
     margin-bottom: 5px;
     margin-top: 5px;
     font-family: monospace;
+    // keeps the email on one line within the photo's width on desktop
+    font-size: 0.72rem;
 
     p {
       display: inline-block;
@@ -217,7 +234,7 @@ ul.task-list input[type="checkbox"] {
 
 @media (min-width: 576px) {
   .profile {
-    width: 30%;
+    width: 25%;
 
     .address {
       p {
@@ -237,6 +254,17 @@ ul.task-list input[type="checkbox"] {
     &:hover {
       color: var(--global-theme-color);
       text-decoration: none;
+    }
+  }
+
+  a.scholar-link {
+    color: var(--global-theme-color);
+    text-decoration: underline;
+    text-underline-offset: 0.15em;
+
+    &:hover {
+      color: var(--global-hover-color);
+      text-decoration: underline;
     }
   }
 }

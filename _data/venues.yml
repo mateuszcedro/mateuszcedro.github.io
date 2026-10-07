@@ -1,9 +1,17 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
+# Venue badges shown next to publications (key = the `abbr` field in papers.bib).
+# No `color` is set, so every badge uses the site's theme colour.
 
-"PhysRev":
-  url: https://journals.aps.org/
+"CACM":
+  url: https://cacm.acm.org/
 
-"Vision":
-  color: "#009f36"
+"xAI":
+  url: https://xaiworldconference.com/
+
+"Ann Med":
+  url: https://www.tandfonline.com/journals/iann20
+
+"Sci Rep":
+  url: https://www.nature.com/srep/
+
+"arXiv":
+  url: https://arxiv.org/
