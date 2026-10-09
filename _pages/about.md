@@ -29,11 +29,11 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a third-year PhD student in Machine Learning at the University of Antwerp, advised by <a href="https://scholar.google.com/citations?hl=en&user=gbce1doAAAAJ&view_op=list_works&sortby=pubdate">Prof.&nbsp;Dr.&nbsp;David&nbsp;Martens</a>. Prior to my PhD, I conducted ML research under <a href="https://scholar.google.com/citations?user=Af0O75cAAAAJ">Prof.&nbsp;Dr.&nbsp;Przemyslaw&nbsp;Biecek</a> at Warsaw University of Technology.
+I am a third-year PhD student in Machine Learning at the University of Antwerp, advised by <a href="https://scholar.google.com/citations?hl=en&user=gbce1doAAAAJ&view_op=list_works&sortby=pubdate">Prof.&nbsp;David&nbsp;Martens</a>. Prior to my PhD, I conducted ML research under <a href="https://scholar.google.com/citations?user=Af0O75cAAAAJ">Prof.&nbsp;Przemyslaw&nbsp;Biecek</a> at Warsaw University of Technology.
 
 <p style="margin-bottom: 0;">My research focuses on <strong>machine learning interpretability</strong>:</p>
 <ul>
-  <li>Representation learning of transformers (current focus),</li>
+  <li>Representation learning (current focus),</li>
   <li>(Mis)Alignment in Large Language Models (<em><a href="https://doi.org/10.1145/3799434">CACM</a></em>),</li>
   <li>Explanation quality in computer vision models (<em><a href="https://doi.org/10.1038/s41598-026-68191-5">Sci.&nbsp;Rep.</a></em>),</li>
   <li>Human-centered explanations (<em><a href="https://doi.org/10.1007/978-3-032-08327-2_5">XAI&nbsp;Conf.</a></em>),</li>
