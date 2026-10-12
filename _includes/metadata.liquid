@@ -239,3 +239,25 @@
     }
   </script>
 {% endif %}
+
+{% if page.permalink == '/' %}
+  <!-- Person profile for search engines -->
+  {% assign socials = site.data.socials %}
+  <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "name": "{{ site.first_name }} {{ site.last_name }}",
+      "url": "{{ site.url }}",
+      "image": "{{ '/assets/img/' | append: page.profile.image | prepend: site.url }}",
+      "jobTitle": "PhD Student in Machine Learning",
+      "affiliation": { "@type": "CollegeOrUniversity", "name": "University of Antwerp" },
+      "sameAs": [
+        "https://scholar.google.com/citations?user={{ socials.scholar_userid }}",
+        "https://github.com/{{ socials.github_username }}",
+        "https://www.linkedin.com/in/{{ socials.linkedin_username }}",
+        "https://x.com/{{ socials.x_username }}"
+      ]
+    }
+  </script>
+{% endif %}
