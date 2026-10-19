@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-cv",
           title: "cv",
-          description: "",
+          description: "Curriculum vitae of Mateusz Cedro, PhD student in Machine Learning at the University of Antwerp.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
