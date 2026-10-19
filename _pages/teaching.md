@@ -35,19 +35,19 @@ nav_order: 8
       <th scope="row">2026</th>
       <td>Python for Machine Learning</td>
       <td>MSc</td>
-      <td>140 students: labs, projects</td>
+      <td>120 students: labs, projects</td>
     </tr>
     <tr>
       <th scope="row">2025</th>
       <td>Python for Machine Learning</td>
       <td>MSc</td>
-      <td>140 students: labs, projects</td>
+      <td>120 students: labs, projects</td>
     </tr>
     <tr>
       <th scope="row">2024</th>
       <td>Python for Machine Learning</td>
       <td>MSc</td>
-      <td>140 students: labs, projects</td>
+      <td>120 students: labs, projects</td>
     </tr>
   </tbody>
 </table>
