@@ -1478,3 +1478,17 @@ figure.cover {
     color: #23212d !important;
   }
 }
+
+// phones: compact, centred venue badges instead of full-width bars
+@media (max-width: 575.98px) {
+  .publications ol.bibliography li .abbr {
+    text-align: center;
+
+    abbr {
+      width: auto !important;
+      min-width: 82px;
+      padding-left: 0.75em;
+      padding-right: 0.75em;
+    }
+  }
+}

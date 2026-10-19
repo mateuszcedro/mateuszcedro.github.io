@@ -2,7 +2,7 @@
 layout: page
 permalink: /cv/
 title: cv
-seo_title: Mateusz Cedro CV
+seo_title: Mateusz Cedro - CV
 description: Curriculum vitae of Mateusz Cedro, PhD student in Machine Learning at the University of Antwerp.
 nav: true
 nav_order: 2
