@@ -10,6 +10,9 @@ nav_order: 7
 ## 2026
 
 **Cash or Comfort? How LLMs Value Your Inconvenience** *(talk)*
+FAIR (Flanders AI Research Program), Research Day, 2026
+
+**Cash or Comfort? How LLMs Value Your Inconvenience** *(talk)*
 Antwerp Center on Responsible AI, 2026
 
 ---
@@ -23,4 +26,4 @@ World Conference on Explainable Artificial Intelligence, 2025
 Antwerp Center on Responsible AI, 2025
 
 **Risks of LLMs' Valuation of Human Discomfort** *(poster)*
-Flanders AI Research Program, Research Day, 2025
+FAIR (Flanders AI Research Program), Research Day, 2025
